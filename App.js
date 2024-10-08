@@ -21,6 +21,7 @@ export default function App() {
   );
 }
 
+// these are the styles
 const styles = StyleSheet.create({
   fullContainer: {
     flex: 1,
